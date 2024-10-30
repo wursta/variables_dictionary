@@ -1,6 +1,6 @@
-title
-name
-header
-caption
-heading
+title \
+name \
+header \
+caption \
+heading \
 headline
